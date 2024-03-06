@@ -1,0 +1,14 @@
+/* .card.cart.productbtn {
+  border-radius: 2px !important;
+}
+
+.card.cart.productbtn:hover {
+  background-color: darkcyan !important;
+} */
+
+.card {
+  text-align: center !important;
+  /* height: vh !important; */
+  /* width: 20vw !important; */
+  /* box-sizing: border-box !important; */
+}
